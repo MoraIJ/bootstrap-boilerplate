@@ -1,6 +1,9 @@
-“this will be in the README”
+# This is my read
 
-# Test Markdown
- - bullet one
- - bullet two
+- bullet one
+- bullet two
+
+### heading from mark down
+
+
  
